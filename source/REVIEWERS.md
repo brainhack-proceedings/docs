@@ -1,5 +1,14 @@
 # Reviewer guidelines
+
+## Contributing as a Reviewer
+
+Brainhack Proceedings are run through a pool of volunteering reviewers, who have the field knowledge and experience to review the papers submitted throughout the year. The reviewer applications run through a simple [submission form]() and the approval is done by the editorial team of the Brainhack Proceedings. Based on the field of knowledge you indicate in your application, the submitted abstracts are assigned to you by the editors and issued into the system to track the reviewing processees.
+
+
+## Main Responsibilities
+
 As a Brainhack proceedings reviewer, you are responsible for the technical quality of the resources available for our community. Prior to review, an editor establishes that the submission qualifies in principles, and an administrator has built a pdf for the initial submission, which gets listed on the brainhack proceedings website as a preprint, so you can review the material directly on the pdf (the link is at the top of the github page of the article). Now your role is to ensure the submitted materials take full advantage of the proceedings format, prior to final publication. Specific criteria for review are listed below.
+
 
 ## Scientific review
 You need to assess that work is scientifically sound, including but not limited to the following:
@@ -11,7 +20,7 @@ You need to assess that work is scientifically sound, including but not limited 
  * Are the conclusions supported by the results?
 
 ## Technical review Criteria
-You may want to go through some examples of high quality proceedings from past years:
+You may want to go through some examples of high quality proceedings from past years from Proceedings menu of the [Brainhack website](brainhack.org)
  * ...
 
 Specific areas for review include:
@@ -28,7 +37,7 @@ We encourage you to open as many issues as necessary to reach a high quality for
 
 When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you the reviewer believe to be impeding the acceptance of the repository.
 
-## How to interact with editors and NeuroLibre
+## How to interact with editors and Brainhack Proceedings Admin
 You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [mattermost brainhack forum](https://mattermost.brainhack.org). You can also post your questions in the reviwers channel, if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potentially access to this channel as well.
 
 ## Conflict of interest
