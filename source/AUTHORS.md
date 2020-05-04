@@ -4,13 +4,19 @@ Submissiong guidelines for authors.
 ## Scope
 
 Brainhack proceedings welcomes submissions along the following tracks:
- - ...
-
+ - Brainhack Global
+ - Standalone Brainhack Events
+ - OHBM Hackathons
+ - BrainWeb Hackathons
+ - Neurohackademy 
+ - Worldwide Brainhack Schools (eg.  [MTL Brainhack School](https://school.brainhackmtl.org/register/)
+ 
 ## Format
-We recommend proceedings to remain under two pages, although shor
+We recommend proceedings to remain under two pages.
+
 ## How are submissions reviewed?
 
-Submissions are (...)  Please read our [review guidelines](REVIEWER.md) for more information.
+Submissions are (...)  Please read our [review guidelines](REVIEWERS.md) for more information.
 
 ## How to submit?
 
@@ -26,6 +32,8 @@ Submissions are (...)  Please read our [review guidelines](REVIEWER.md) for more
  - All versions of the paper will be posted on https://brainhack-proceedings.github.io right after the initial submission.
 
 ## Examples of Brainhack proceedings
+
+The examples from the previous years' Brainhack Proceedings can be found in Proceedings menu of the [Brainhack webpage](http://www.brainhack.org/)
 
 ## Attribution
 Some material in this section was adapted from the [Neurolibre publication guidelines](https://docs.neurolibre.com/en/latest/), released under an MIT license.
