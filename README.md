@@ -1,4 +1,4 @@
-# brainhack-proceedings.github.io/docs
+# brainhack-proceedings.readthedocs.io
 This is the documentation of the Brainhack proceedings publishing platform. The most recent version of the docs is published on [brainhack-proceedings.readthedocs.io](https://brainhack-proceedings.readthedocs.io/en/latest/). The docs are built using the [sphinx](http://www.sphinx-doc.org!) library. Content is mostly composed of markdown files (with a few .rst) located in `source`, and the website itself is located in `build` (after compilation, not included in this repo). All `source` changes on the master branch will automatically update the website, through integration with [readthedocs](https://readthedocs.org/). To test updates to the website locally, clone or download this repository, install the dependencies (python3) using:
 ```
 pip install -r requirements.txt
