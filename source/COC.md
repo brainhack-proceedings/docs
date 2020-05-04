@@ -4,11 +4,11 @@
 
 ## Sumary
 
-NeuroLibre is dedicated to providing a harassment-free working environment for all, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any form. All communication should be appropriate for a professional audience including people of many different backgrounds.
+Brainhack Proceedings is dedicated to providing a harassment-free working environment for all, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any form. All communication should be appropriate for a professional audience including people of many different backgrounds.
 
-Sexual language and imagery is not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for NeuroLibre. Staff violating these rules should be reported to an appropriate line manager.
+Sexual language and imagery is not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Brainhack Proceedings. Staff violating these rules should be reported to an appropriate line manager.
 
-These are the values to which people in the NeuroLibre community should aspire:
+These are the values to which people in the Brainhack Proceedings community should aspire:
 
 - Be friendly and welcoming
 - Be patient
@@ -32,7 +32,7 @@ People are complicated. You should expect to be misunderstood and to misundersta
 
 ## Reporting an incident
 
-Incidents that violate the Code of Conduct are extremely damaging to NeuroLibre, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the teams at large, to grow, learn, and become better.
+Incidents that violate the Code of Conduct are extremely damaging to Brainhack Proceedings, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the teams at large, to grow, learn, and become better.
 
 > The following should be handled by an editor who has been informed of the incident
 
