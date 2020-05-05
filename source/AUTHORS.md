@@ -1,6 +1,19 @@
 # Authors guidelines
 Submissiong guidelines for authors.
 
+## Who are the Authors?
+
+- Authors are considered as any active local or remote contributors to the project at the time of the project developed and finalised, who had a substantial contribution to the project, not only during the time of the project development taken place for a limited time of the Brainhack but until the project has been finalised or came to a stage to publish the results.
+
+- The project leaders are to decide who should be getting credit as being the co-author.
+
+- The co-authors' consent to be listed should be taken before they are administrated as the co-authors with the publication.
+
+- The consent should guarantee of the co-authors should be ready to take the responsibilities regarding the any queries and support for the publication. 
+
+- Purely financial contributors should not be considered as co-authors but considered as funding supports and needs to be acknowledged at the Acknowledgement section of the paper as necessary. 
+
+
 ## Scope
 
 Brainhack proceedings welcomes submissions along the following tracks:
