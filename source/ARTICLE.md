@@ -1,9 +1,10 @@
-# BrainHack Paper Guideline
+# Braihack Paper Guideline
 
-Here you are provided a quick guideline regarding what features you might think addressing in your paper regarding transfering the given effort and work well to the reader.
-The all of the items listed here are not the absolute requisities to pass the review processes but are important points to take into consideration for the clarity and sanity of the research conveyed and to be shared with the public. 
+Here you are provided a quick guideline to help you addressing the scientific question and the research is done in your paper in a well and simply formatted way. 
+
+Not all of the items listed here are the absolute requisities to pass the review processes but they are important points to take into consideration for including in your paper for the clarity and sanity of the research conveyed and to make it easy to be understood by the public.
+
 So please use this guideline as a matter of checklist regarding your preprint.
-
 
 ## Project Information
 ### Title (required) 
