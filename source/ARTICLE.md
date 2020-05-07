@@ -1,4 +1,4 @@
-# Braihack Paper Guideline
+# Brainhack Paper Guideline
 
 Here you are provided a quick guideline to help you addressing the scientific question and the research is done in your paper in a well and simply formatted way. 
 
