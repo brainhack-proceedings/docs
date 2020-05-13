@@ -17,23 +17,24 @@ As a Brainhack proceedings reviewer, you are responsible for the technical quali
 
 ## Scientific review
 You need to assess that work is scientifically sound, including but not limited to the following:
- * Are the objectives and hypothesis of the work clearly stated?
- * Is the context of the work clearly presented?/
- * Are key prior works on the subject properly cited?
- * Are the methods sound?
- * Are the results presented clearly?
- * Are the conclusions supported by the results?
- * 
+
+ - Are the objectives and hypothesis of the work clearly stated?
+ - Is the context of the work clearly presented?/
+ - Are key prior works on the subject properly cited?
+ - Are the methods sound?
+ - Are the results presented clearly?
+ - Are the conclusions supported by the results?
+  
 
 ## Technical review Criteria
 You may want to go through some examples of high-quality proceedings from past years from Proceedings menu of the [Brainhack website](brainhack.org)
 
 Specific areas for review include:
- * Is the text clear and easy to read? In particular, are the sentences free of jargon?
- * Are the figures properly annotated and help understand the flow of the proceedings?
- * Is the article of appropriate lengths? We recommend up to two pages, but this can be adapted based on the project.
- * Is the article split into logical sections?
- * Is the data used for the research clearly explained and cited (if it is a previously collected/open data)?
+ - Is the text clear and easy to read? In particular, are the sentences free of jargon?
+ - Are the figures properly annotated and help understand the flow of the proceedings?
+ - Is the article of appropriate lengths? We recommend up to two pages, but this can be adapted based on the project.
+ - Is the article split into logical sections?
+ - Is the data used for the research clearly explained and cited (if it is a previously collected/open data)?
 
 ## Data, code, and notebooks
 Wherever appropriate, authors should share supporting data, code, and notebooks for their work. Note that you are not expected to formally review data, code libraries, and notebooks shipped with the article. There are other publication venues better suited for this kind of review, such as the [Nature scientific data](https://www.nature.com/sdata/), [Journal of Open Source Software](https://joss.theoj.org/) and [Neurolibre](https://neurolibre.com), respectively.
@@ -44,7 +45,7 @@ We encourage you to open as many issues as necessary to reach a high quality for
 When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you the reviewer believe to be impeding the acceptance of the repository. 
 
 ## How to interact with editors and Brainhack Proceedings Admin
-You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [mattermost brainhack forum](https://mattermost.brainhack.org). You can also post your questions in the reviewer's channel if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potential access to this channel as well.
+You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [Mattermost Brainhack channel](https://mattermost.brainhack.org). You can also post your questions in the reviewer's channel if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potential access to this channel as well.
 
 ## Conflict of interest
 The definition of a conflict of interest in peer review is a circumstance that makes you “unable to make an impartial scientific judgment or evaluation.” (PNAS Conflict of Interest Policy). The Brainhack team is concerned with avoiding any actual conflicts of interest, and being sufficiently transparent that we avoid the appearance of conflicts of interest as well.
