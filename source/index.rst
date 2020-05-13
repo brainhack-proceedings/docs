@@ -10,5 +10,6 @@ Brainhack proceedings are ...
    :caption: Contents:
 
    AUTHORS
+   ARTICLE
    REVIEWERS
    COC
