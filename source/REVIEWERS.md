@@ -27,7 +27,7 @@ You need to assess that work is scientifically sound, including but not limited 
   
 
 ## Technical review Criteria
-You may want to go through some examples of high-quality proceedings from past years from Proceedings menu of the [Brainhack website](brainhack.org)
+You may want to go through some examples of high-quality proceedings from past years from Proceedings menu of the [Brainhack website](http://brainhack.org/)
 
 Specific areas for review include:
  - Is the text clear and easy to read? In particular, are the sentences free of jargon?
