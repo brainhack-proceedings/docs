@@ -26,9 +26,9 @@ You need to assess that work is scientifically sound, including but not limited 
  - Are the results presented clearly?
  - Are the conclusions supported by the results?
   
-
 ## Technical review criteria
 You may want to go through some examples of high-quality proceedings from past years from the Proceedings menu of the [Brainhack website](brainhack.org)
+
 
 Specific areas for review include:
  - Is the text clear and easy to read? In particular, are the sentences free of jargon?
@@ -41,7 +41,7 @@ Specific areas for review include:
 Wherever appropriate, authors should share supporting data, code, and notebooks for their work. Note that you are not expected to formally review data, code libraries, and notebooks shipped with the article. There are other publication venues better suited for this kind of review, such as the [Nature scientific data](https://www.nature.com/sdata/), [Journal of Open Source Software](https://joss.theoj.org/) and [Neurolibre](https://neurolibre.com), respectively.
 
 ## How to interact with authors
-We encourage you to open as many issues as necessary to reach a high quality for the submission. For this purpose, you will use the GitHub issue tracking system on the repository associated with the submission.  Please assign the issues to the lead author of the submission, who will submit a pull request in order to address your comments. Review the pull request and merge it if you think it is appropriate. You can also submit a pull request yourself and ask the author to approve the changes. If you encounter flaws or conflict with the results, please give constructive feedback regarding how the research should be improved. Please avoid any personal comments that might direct to the author, but keep the focus on the content, research, and the scientific question aimed at and follow our [code of conduct](COC.md).
+We encourage you to open as many issues as necessary to reach a high quality for the submission. For this purpose, you will use the GitHub issue tracking system on the repository associated with the submission.  Please assign the issues to the lead author of the submission, who will submit a pull request in order to address your comments. Review the pull request and merge it if you think it is appropriate. You can also submit a pull request yourself and ask the author to approve the changes. If you encounter flaws or conflict with the results, please give constructive feedback regarding how the research should be improved. Please avoid any personal comments that might direct to the author, but keep the focus on the content, research, and the scientific question aimed at and follow our [code of conduct](https://brainhack-proceedings.readthedocs.io/en/latest/COC.html).
 
 When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you, the reviewer believe to be impeding the acceptance of the repository. 
 
