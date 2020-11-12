@@ -1,5 +1,6 @@
 # How to submit to Brainhack Proceedings
-Submission guidelines for authors.
+
+## Submission guidelines for authors.
 
 To create a paper for your project, simply follow the instructions in the [Brainhack Proceedings template](https://github.com/brainhack-proceedings/template). It will take you through all the steps up to the submission based on a rich template that you can easily adapt to the needs of your paper.
 Once your paper is ready, you can submit it by [creating an issue](https://github.com/brainhack-proceedings/submit/issues/new?assignees=&labels=HOPE+Object+Submission&template=hope-object-issue-template.md&title=) in this repository, using the "Submission" template, and fill in all the information.
