@@ -36,7 +36,7 @@ Submissions are (...)  Please read our [review guidelines](REVIEWERS.md) for mor
  - Create a public repository on [GitHub](https://github.com/) which will host the files.
  - Write a latex article called `article.latex` containing the proceeding, and using the following [template]().
  - Add and complete the following .yml [configuration file]() to the repository.
- - [Create an issue](https://github.com/brainhack-proceedings/submit/issues/new) in this repository, using the "Submission" template, and fill in all the information.
+ - [Create an issue](https://github.com/brainhack-proceedings/submit/issues/new?assignees=&labels=HOPE+Object+Submission&template=hope-object-issue-template.md&title=) in this repository, using the "Submission" template, and fill in all the information.
  - Our team will fork your repository on `https://github.com/brainhack-proceedings/your_paper_id`.
  - We will configure a new github page, and make the paper information and pdf available on `https://brainhack-proceedings.github.io/your_paper_id`. The page will be refreshed every time a new version of the paper is released (revision1, revision2, etc).
  - A review issue will be opened on the fork, inviting some reviewers.
