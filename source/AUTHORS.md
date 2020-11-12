@@ -38,7 +38,24 @@ We recommend proceedings to remain under two pages.
 
 ## How are submissions reviewed?
 
-Submissions are (...)  Please read our [review guidelines](REVIEWERS.md) for more information.
+Please read our [review guidelines](REVIEWERS.md) for more information.
+
+## How to submit?
+
+ - Create a public account on [GitHub](https://github.com/).
+ - Go to [Brainhack Proceedings Template repository](https://github.com/brainhack-proceedings/template).
+ - Follow the instructions given in the repository [README](https://github.com/brainhack-proceedings/template/blob/master/README.md)
+ to create a copy of the template repository at your own local, and edit as necessary.
+ - [Create an issue](https://github.com/brainhack-proceedings/submit/issues/new) in this repository, using the "Submission" template, and fill in all the information.
+ - Our team will fork your repository on `https://github.com/brainhack-proceedings/your_paper_id`.
+ - We will configure a new github page, and make the paper information and pdf available on `https://brainhack-proceedings.github.io/your_paper_id`. The page will be refreshed every time a new version of the paper is released (revision1, revision2, etc).
+ - A review issue will be opened on the fork, inviting some reviewers.
+ - Reviewers will create issues. You will need to submit pull requests to address these issues. 
+ - The editor will close each review issue after reviewing they advised was properly addressed.
+ - After all issues have been addressed, a "publish" release will be made by the editor.
+ - All versions of the paper will be posted on [https://brainhack-proceedings.github.io](https://brainhack-proceedings.github.io) right after the initial submission.
+ - Make sure that you archieve your repository in [Zenodo](https://guides.github.com/activities/citable-code/)or [Figshare](https://mozillascience.github.io/code-research-object/) together with your submission to Brainhack Proceedings. Doing so, you will get a Digital Object Identifier (DOI) for your repository while providing a time-free representation to your paper and associated code repositories.
+
 
 ## Examples of Brainhack proceedings
 

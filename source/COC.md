@@ -2,11 +2,11 @@
 
 > A code of conduct is a set of rules outlining the social norms and rules and responsibilities of, or proper practices for, an individual, party or organization
 
-## Sumary
+## Summary
 
 Brainhack Proceedings is dedicated to providing a harassment-free working environment for all, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of any form. All communication should be appropriate for a professional audience including people of many different backgrounds.
 
-Sexual language and imagery is not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Brainhack Proceedings. Staff violating these rules should be reported to an appropriate line manager.
+Sexual language and imagery are not appropriate for any communication and/or talks. Be kind and do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Brainhack Proceedings. Staff violating these rules should be reported to an appropriate line manager.
 
 These are the values to which people in the Brainhack Proceedings community should aspire:
 
@@ -36,7 +36,7 @@ Incidents that violate the Code of Conduct are extremely damaging to Brainhack P
 
 > The following should be handled by an editor who has been informed of the incident
 
-You can contact editors privately through emails (see their github page for links), or using direct messages on the [mattermost brainhack forum](https://mattermost.brainhack.org) if you have any question, comment or complaint.
+You can contact editors privately through their emails (see their Github page for links), or using direct messages on the [Mattermost Brainhack forum](https://mattermost.brainhack.org) if you have any question, comment or complaint.
  The important information to gather include the following:
 
 - Name and team of the participant violating the code of conduct
@@ -48,4 +48,4 @@ You can contact editors privately through emails (see their github page for link
 
 ## Attribution
 
-This Code of Conduct was adapted from both [Golang](https://golang.org/conduct) an the [Golang UK Conference](http://golanguk.com/conduct/).
+This Code of Conduct was adapted from both [Golang](https://golang.org/conduct) and the [Golang UK Conference](http://golanguk.com/conduct/).

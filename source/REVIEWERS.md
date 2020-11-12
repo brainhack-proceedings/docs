@@ -2,7 +2,8 @@
 
 ## Contributing as a Reviewer
 
-Brainhack Proceedings are run through a pool of volunteering reviewers, who have the field knowledge and experience to review the papers submitted throughout the year. The reviewer applications run through a simple [submission form](https://docs.google.com/forms/d/1b0aocfAFb4Pb3dOG4YLN7TzOu51HL_DCgNfoW0IafsU/edit?ts=5fa6ba0a&gxids=7757) and the approval is done by the editorial team of the Brainhack Proceedings. Based on the field of knowledge you indicate in your application, the submitted abstracts are assigned to you by the editors and issued into the system to track the reviewing processes.
+Brainhack Proceedings are run through a pool of volunteering reviewers, who have the field knowledge and experience to review the papers submitted throughout the year. 
+The reviewer applications run through a simple [submission form](https://docs.google.com/forms/d/1b0aocfAFb4Pb3dOG4YLN7TzOu51HL_DCgNfoW0IafsU/edit?usp=sharing) and the approval is done by the editorial team of the Brainhack Proceedings. Based on the field of knowledge you indicate in your application, the submitted abstracts are assigned to you by the editors and issued into the system to track the reviewing processes.
 
 
 ## Paper - Reviewer Assignment Processes
@@ -15,7 +16,7 @@ Brainhack proceedings will have a list of editors, who will take an active work 
 As a Brainhack proceedings reviewer, you are responsible for the technical quality of the resources available for our community. Prior to the review, an editor establishes that the submission qualifies in principles, and an administrator has built a pdf for the initial submission, which gets listed on the brainhack proceedings website as a preprint, so you can review the material directly on the pdf (the link is at the top of the Github page of the article). Now your role is to ensure the submitted materials take full advantage of the proceedings format, prior to final publication. Specific criteria for review are listed below.
 
 
-## Scientific review
+## Scientific review criteria
 You need to assess that work is scientifically sound, including but not limited to the following:
 
  - Are the objectives and hypothesis of the work clearly stated?
@@ -25,16 +26,16 @@ You need to assess that work is scientifically sound, including but not limited 
  - Are the results presented clearly?
  - Are the conclusions supported by the results?
   
+## Technical review criteria
+You may want to go through some examples of high-quality proceedings from past years from the Proceedings menu of the [Brainhack website](brainhack.org)
 
-## Technical review Criteria
-You may want to go through some examples of high-quality proceedings from past years from Proceedings menu of the [Brainhack website](http://brainhack.org/)
 
 Specific areas for review include:
  - Is the text clear and easy to read? In particular, are the sentences free of jargon?
  - Are the figures properly annotated and help understand the flow of the proceedings?
  - Is the article of appropriate lengths? We recommend up to two pages, but this can be adapted based on the project.
  - Is the article split into logical sections?
- - Is the data used for the research clearly explained and cited (if it is a previously collected/open data)?
+ - Is the data used for the research clearly explained and cited (if it is previously collected/open data)?
 
 ## Data, code, and notebooks
 Wherever appropriate, authors should share supporting data, code, and notebooks for their work. Note that you are not expected to formally review data, code libraries, and notebooks shipped with the article. There are other publication venues better suited for this kind of review, such as the [Nature scientific data](https://www.nature.com/sdata/), [Journal of Open Source Software](https://joss.theoj.org/) and [Neurolibre](https://neurolibre.com), respectively.
@@ -42,13 +43,13 @@ Wherever appropriate, authors should share supporting data, code, and notebooks 
 ## How to interact with authors
 We encourage you to open as many issues as necessary to reach a high quality for the submission. For this purpose, you will use the GitHub issue tracking system on the repository associated with the submission.  Please assign the issues to the lead author of the submission, who will submit a pull request in order to address your comments. Review the pull request and merge it if you think it is appropriate. You can also submit a pull request yourself and ask the author to approve the changes. If you encounter flaws or conflict with the results, please give constructive feedback regarding how the research should be improved. Please avoid any personal comments that might direct to the author, but keep the focus on the content, research, and the scientific question aimed at and follow our [code of conduct](https://brainhack-proceedings.readthedocs.io/en/latest/COC.html).
 
-When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you the reviewer believe to be impeding the acceptance of the repository. 
+When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you, the reviewer believe to be impeding the acceptance of the repository. 
 
 ## How to interact with editors and Brainhack Proceedings Admin
-You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [Mattermost Brainhack channel](https://mattermost.brainhack.org). You can also post your questions in the reviewer's channel if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potential access to this channel as well.
+You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [Mattermost Brainhack channel](https://mattermost.brainhack.org). You can also post your questions in the [Brainhack Proceedigns Reviewers]() channel if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potential access to this channel as well.
 
 ## Conflict of interest
-The definition of a conflict of interest in peer review is a circumstance that makes you “unable to make an impartial scientific judgment or evaluation.” (PNAS Conflict of Interest Policy). The Brainhack team is concerned with avoiding any actual conflicts of interest, and being sufficiently transparent that we avoid the appearance of conflicts of interest as well.
+The definition of a conflict of interest in peer review is a circumstance that makes you “unable to make an impartial scientific judgment or evaluation.” (please look at [PNAS Competing Interest Policy](https://www.pnas.org/authors/editorial-and-journal-policies#:~:text=PNAS%20Competing%20Interest%20Policy&text=The%20most%20important%20element%20of,in%20connection%20with%20the%20manuscript.)). The Brainhack team is concerned with avoiding any actual conflicts of interest, and being sufficiently transparent that we avoid the appearance of conflicts of interest as well.
 
 As a reviewer, conflict of interest is your present or previous association with any authors of a submission: recent (past four years) collaborators in funded research or work that is published; and lifetime for the family members, business partners, and thesis student/advisor or mentor. In addition, your recent (past year) association with the same organization of a submitter is a COI, for example, being employed at the same institution.
 
