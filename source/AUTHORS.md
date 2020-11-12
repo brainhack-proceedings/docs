@@ -1,5 +1,5 @@
 # Authors guidelines
-Submissiong guidelines for authors.
+Submission guidelines for authors.
 
 ## Who are the Authors?
 
