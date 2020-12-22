@@ -2,7 +2,7 @@
 
 ## Contributing as a Reviewer
 
-Brainhack Proceedings are run through a pool of volunteering reviewers, who have the field knowledge and experience to review the papers submitted throughout the year. 
+Brainhack Proceedings are run through a pool of volunteering reviewers, who have the field knowledge and experience to review the papers submitted throughout the year.
 The reviewer applications run through a simple [submission form](https://docs.google.com/forms/d/1b0aocfAFb4Pb3dOG4YLN7TzOu51HL_DCgNfoW0IafsU/edit?usp=sharing) and the approval is done by the editorial team of the Brainhack Proceedings. Based on the field of knowledge you indicate in your application, the submitted abstracts are assigned to you by the editors and issued into the system to track the reviewing processes.
 
 
@@ -25,9 +25,9 @@ You need to assess that work is scientifically sound, including but not limited 
  - Are the methods sound?
  - Are the results presented clearly?
  - Are the conclusions supported by the results?
-  
+ 
 ## Technical review criteria
-You may want to go through some examples of high-quality proceedings from past years from the Proceedings menu of the [Brainhack website](brainhack.org)
+You may want to go through some examples of high-quality proceedings from past years from the Proceedings menu of the [Brainhack website](https://brainhack.org)
 
 
 Specific areas for review include:
@@ -43,10 +43,10 @@ Wherever appropriate, authors should share supporting data, code, and notebooks 
 ## How to interact with authors
 We encourage you to open as many issues as necessary to reach a high quality for the submission. For this purpose, you will use the GitHub issue tracking system on the repository associated with the submission.  Please assign the issues to the lead author of the submission, who will submit a pull request in order to address your comments. Review the pull request and merge it if you think it is appropriate. You can also submit a pull request yourself and ask the author to approve the changes. If you encounter flaws or conflict with the results, please give constructive feedback regarding how the research should be improved. Please avoid any personal comments that might direct to the author, but keep the focus on the content, research, and the scientific question aimed at and follow our [code of conduct](https://brainhack-proceedings.readthedocs.io/en/latest/COC.html).
 
-When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you, the reviewer believe to be impeding the acceptance of the repository. 
+When you have completed your review, please leave a comment in the review issue saying so. You can include in your review links to any new issues that you, the reviewer believe to be impeding the acceptance of the repository.
 
 ## How to interact with editors and Brainhack Proceedings Admin
-You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [Mattermost Brainhack channel](https://mattermost.brainhack.org). You can also post your questions in the [Brainhack Proceedigns Reviewers]() channel if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potential access to this channel as well.
+You can tag the editors in any of your issues. If you need to communicate privately with an editor, you can use direct messages on the [Mattermost Brainhack channel](https://mattermost.brainhack.org). You can also post your questions in the [Brainhack Proceedings Reviewers](https://github.com/orgs/brainhack-proceedings/teams/reviewers) channel if you want the entire Brainhack reviewer community to help. Just be mindful that authors of the submission have potential access to this channel as well.
 
 ## Conflict of interest
 The definition of a conflict of interest in peer review is a circumstance that makes you “unable to make an impartial scientific judgment or evaluation.” (please look at [PNAS Competing Interest Policy](https://www.pnas.org/authors/editorial-and-journal-policies#:~:text=PNAS%20Competing%20Interest%20Policy&text=The%20most%20important%20element%20of,in%20connection%20with%20the%20manuscript.)). The Brainhack team is concerned with avoiding any actual conflicts of interest, and being sufficiently transparent that we avoid the appearance of conflicts of interest as well.

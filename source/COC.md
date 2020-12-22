@@ -46,6 +46,6 @@ You can contact editors privately through their emails (see their Github page fo
 - The circumstances surrounding the incident
 - Other people involved in the incident
 
-## Attribution
+## CoC Attribution
 
 This Code of Conduct was adapted from both [Golang](https://golang.org/conduct) and the [Golang UK Conference](http://golanguk.com/conduct/).
