@@ -34,9 +34,11 @@ This is our preferred way to answer questions so that others who have similar qu
 
 
 - The Github Issues 
-(Template Related Issues)[https://github.com/brainhack-proceedings/template/issues]
-(Website Related Issues)[https://github.com/brainhack-proceedings/brainhack-proceedings.github.io/issues]
-(Documentation Related Issues)[https://github.com/brainhack-proceedings/docs/issues]
+- [Template Related Issues](https://github.com/brainhack-proceedings/template/issues)
+
+- [Website Related Issues](https://github.com/brainhack-proceedings/brainhack-proceedings.github.io/issues)
+
+- [Documentation Related Issues](https://github.com/brainhack-proceedings/docs/issue)
 
 
 
@@ -45,11 +47,11 @@ Before you start, you'll need to set up a free [GitHub](https://github.com/) acc
 
 [Git](https://git-scm.com/) is a version control tool, widely used by the open-source science community, which allows contributors to track changes and sync work with the master (main) repository. [GitHub](https://github.com/) sits on top of git and supports collaborative and distributed working.
 
-If you're not yet familiar with git, there are lots of great resources to help you git started! Some of our favourites include the [git Handbook](https://guides.github.com/introduction/git-handbook/) and the [Software Carpentry](http://swcarpentry.github.io/git-novice/) [introduction to git](http://swcarpentry.github.io/git-novice/. Also, our community is here to help you as necessary. Please do not hesitate to reach out with questions and requests for the support! We are here to help! ❤️
+If you're not yet familiar with git, there are lots of great resources to help you git started! Some of our favourites include the [git Handbook](https://guides.github.com/introduction/git-handbook/) and the [Software Carpentry](http://swcarpentry.github.io/git-novice/) [introduction to git](http://swcarpentry.github.io/git-novice/). Also, our community is here to help you as necessary. Please do not hesitate to reach out with questions and requests for the support! We are here to help! ❤️
  
 ## Writing in markdown
 GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
-Most of the writing that you'll do will be in [Markdown](https://daringfireball.net/projects/markdown). You can think of Markdown as a few little symbols around your text that will allow GitHub to recognize and format the text. For example, you could write words as bold (`**bold**`)`, or in italics (``*italics*`), or as a link (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.	
+Most of the writing that you'll do will be in [Markdown](https://daringfireball.net/projects/markdown). You can think of Markdown as a few little symbols around your text that will allow GitHub to recognize and format the text. For example, you could write words as bold (`**bold**`)`, or in italics (`*italics*`), or as a link (`[link](https://https://youtu.be/dQw4w9WgXcQ)`) to another webpage.	
 
 
 ## [Where to start: wiki, code, and templates](#where_to_start)
@@ -72,9 +74,9 @@ We use labels on our issues, which indicate how each issue relates to the overal
 ### Issue Labels
 The current list of issue labels are here and include:
 
-(Template Related Issues)[https://github.com/brainhack-proceedings/template/issues]
-(Website Related Issues)[https://github.com/brainhack-proceedings/brainhack-proceedings.github.io/issues]
-(Documentation Related Issues)[https://github.com/brainhack-proceedings/docs/issues]
+- [Template Related Issues](https://github.com/brainhack-proceedings/template/issues)
+- [Website Related Issues](https://github.com/brainhack-proceedings/brainhack-proceedings.github.io/issues)
+- [Documentation Related Issues](https://github.com/brainhack-proceedings/docs/issues)
 
 
 **good first issue** These issues contain tasks that are accessible to new contributors because they do not require advanced skills or a steep learning curve.
@@ -120,9 +122,9 @@ This allows other members of the Brainhack Proceedings development team to confi
 
 **2. [Fork](https://help.github.com/articles/fork-a-repo) the related repository from the Brainhack Proceedings organization to your account**
 
-[Template Repository](https://github.com/brainhack-proceedings/template/)
-[Website Repository](https://github.com/brainhack-proceedings/brainhack-proceedings.github.io/)
-Documentation Repository](https://github.com/brainhack-proceedings/template/)
+- [Template Repository](https://github.com/brainhack-proceedings/template/)
+- [Website Repository](https://github.com/brainhack-proceedings/brainhack-proceedings.github.io/)
+- [Documentation Repository](https://github.com/brainhack-proceedings/template/)
 
 Click on the ‘Fork’ button near the top of the page. This creates a copy of the code under your account on GitHub. For more details on how to fork a repository see this guide. This is now your own unique copy of the Brainhack Proceedings. Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
 
