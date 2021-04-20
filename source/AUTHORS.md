@@ -19,7 +19,7 @@ Once your paper is ready, you can follow the following steps:
  - The editor will close each review issue after reviewing they advised was properly addressed.
  - After all issues have been addressed, a "publish" release will be made by the editor.
  - All versions of the paper will be posted on [https://brainhack-proceedings.github.io](https://brainhack-proceedings.github.io) right after the initial submission.
- - Make sure that you archieve your repository in [Zenodo](https://guides.github.com/activities/citable-code/)or [Figshare](https://mozillascience.github.io/code-research-object/) together with your submission to Brainhack Proceedings. Doing so, you will get a Digital Object Identifier (DOI) for your repository while providing a time-free representation to your paper and associated code repositories.
+ - Make sure that you archive your repository in [Zenodo](https://guides.github.com/activities/citable-code/)or [Figshare](https://mozillascience.github.io/code-research-object/) together with your submission to Brainhack Proceedings. Doing so, you will get a Digital Object Identifier (DOI) for your repository while providing a time-free representation to your paper and associated code repositories.
 
 ## Who are the Authors?
 
